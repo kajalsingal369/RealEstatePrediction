@@ -32,6 +32,7 @@ ML Techniques: Regression, Feature Engineering, One-Hot Encoding, Model Validati
 The dataset contains Bangalore property listings with features like location, area in square feet, number of bedrooms, bathrooms, and total price.
 
 🚀 Results
+
 Achieved low RMSE using a simplified linear model with regularization.
 
 Reduced feature dimensionality through location encoding and domain-based filtering.
